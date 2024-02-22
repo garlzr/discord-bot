@@ -1,4 +1,4 @@
-# starter-discord-bot
+# discord-bot0920
 
 Follow these instructions after deploying this repo on Cyclic.sh
 
