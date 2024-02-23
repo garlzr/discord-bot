@@ -1,5 +1,5 @@
 {
-  "name": "starter-discord-bot",
+  "name": "discord-bot0920",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garlzr/discord-bot"
+    "url": "git+https://github.com/garlzr/discord-bot0920"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/garlzr/discord-bot/issues"
+    "url": "https://github.com/garlzr/discord-bot0920/issues"
   },
-  "homepage": "https://github.com/garlzr/discord-bot#readme",
+  "homepage": "https://github.com/garlzr/discord-bot0920#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "body-parser": "^1.20.0",
